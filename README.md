@@ -40,6 +40,7 @@ all leetcode problem solutions that i solve are posted here regularly..
 ## Linked List
 |  |
 | ------- |
+| [0147-insertion-sort-list](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
@@ -52,6 +53,7 @@ all leetcode problem solutions that i solve are posted here regularly..
 ## Sorting
 |  |
 | ------- |
+| [0147-insertion-sort-list](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
