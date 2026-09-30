@@ -21,4 +21,20 @@ all leetcode problem solutions that i solve are posted here regularly..
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0074-search-a-2d-matrix) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0098-validate-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
