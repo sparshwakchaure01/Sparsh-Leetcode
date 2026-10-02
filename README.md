@@ -11,6 +11,7 @@ all leetcode problem solutions that i solve are posted here regularly..
 | [0033-search-in-rotated-sorted-array](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0704-binary-search](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -51,6 +52,7 @@ all leetcode problem solutions that i solve are posted here regularly..
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0148-sort-list) |
 ## Divide and Conquer
 |  |
@@ -59,6 +61,7 @@ all leetcode problem solutions that i solve are posted here regularly..
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0148-sort-list) |
 ## Merge Sort
