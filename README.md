@@ -7,6 +7,7 @@ all leetcode problem solutions that i solve are posted here regularly..
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -48,6 +49,7 @@ all leetcode problem solutions that i solve are posted here regularly..
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0027-remove-element) |
 | [0148-sort-list](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0148-sort-list) |
 ## Divide and Conquer
 |  |
