@@ -13,6 +13,7 @@ all leetcode problem solutions that i solve are posted here regularly..
 | [0035-search-insert-position](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0704-binary-search](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -30,6 +31,7 @@ all leetcode problem solutions that i solve are posted here regularly..
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -38,10 +40,12 @@ all leetcode problem solutions that i solve are posted here regularly..
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -60,6 +64,7 @@ all leetcode problem solutions that i solve are posted here regularly..
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0148-sort-list) |
 ## Sorting
 |  |
