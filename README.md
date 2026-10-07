@@ -14,6 +14,7 @@ all leetcode problem solutions that i solve are posted here regularly..
 | [0074-search-a-2d-matrix](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0303-range-sum-query-immutable](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0704-binary-search](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -100,8 +101,13 @@ all leetcode problem solutions that i solve are posted here regularly..
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
