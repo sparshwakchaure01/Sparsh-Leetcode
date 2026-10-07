@@ -110,4 +110,8 @@ all leetcode problem solutions that i solve are posted here regularly..
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0303-range-sum-query-immutable) |
+## Database
+|  |
+| ------- |
+| [1211-queries-quality-and-percentage](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/1211-queries-quality-and-percentage) |
 <!---LeetCode Topics End-->
