@@ -96,15 +96,18 @@ all leetcode problem solutions that i solve are posted here regularly..
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Prefix Sum
 |  |
