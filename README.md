@@ -16,6 +16,7 @@ all leetcode problem solutions that i solve are posted here regularly..
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0303-range-sum-query-immutable](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0704-binary-search](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0704-binary-search) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -85,6 +86,7 @@ all leetcode problem solutions that i solve are posted here regularly..
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0070-climbing-stairs) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Dynamic Programming
 |  |
 | ------- |
