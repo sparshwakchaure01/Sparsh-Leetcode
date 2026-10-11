@@ -16,6 +16,7 @@ all leetcode problem solutions that i solve are posted here regularly..
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0303-range-sum-query-immutable](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0704-binary-search](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0704-binary-search) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Binary Search
