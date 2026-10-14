@@ -128,6 +128,7 @@ all leetcode problem solutions that i solve are posted here regularly..
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -141,11 +142,13 @@ all leetcode problem solutions that i solve are posted here regularly..
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0141-linked-list-cycle) |
+| [0387-first-unique-character-in-a-string](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0020-valid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -162,4 +165,8 @@ all leetcode problem solutions that i solve are posted here regularly..
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0020-valid-parentheses) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
