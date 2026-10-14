@@ -15,6 +15,7 @@ all leetcode problem solutions that i solve are posted here regularly..
 | [0088-merge-sorted-array](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0303-range-sum-query-immutable](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0496-next-greater-element-i](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -121,6 +122,7 @@ all leetcode problem solutions that i solve are posted here regularly..
 | [0225-implement-stack-using-queues](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -149,6 +151,7 @@ all leetcode problem solutions that i solve are posted here regularly..
 | [0003-longest-substring-without-repeating-characters](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0387-first-unique-character-in-a-string](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -179,4 +182,8 @@ all leetcode problem solutions that i solve are posted here regularly..
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0933-number-of-recent-calls) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
