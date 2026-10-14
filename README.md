@@ -41,6 +41,7 @@ all leetcode problem solutions that i solve are posted here regularly..
 | [0144-binary-tree-preorder-traversal](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -49,6 +50,7 @@ all leetcode problem solutions that i solve are posted here regularly..
 | [0144-binary-tree-preorder-traversal](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -126,6 +128,7 @@ all leetcode problem solutions that i solve are posted here regularly..
 | [0234-palindrome-linked-list](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Design
 |  |
 | ------- |
