@@ -131,6 +131,7 @@ all leetcode problem solutions that i solve are posted here regularly..
 | [0589-n-ary-tree-preorder-traversal](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0682-baseball-game) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
 | ------- |
@@ -166,6 +167,7 @@ all leetcode problem solutions that i solve are posted here regularly..
 | [0003-longest-substring-without-repeating-characters](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sliding Window
 |  |
 | ------- |
