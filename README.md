@@ -16,6 +16,7 @@ all leetcode problem solutions that i solve are posted here regularly..
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0303-range-sum-query-immutable](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -129,6 +130,7 @@ all leetcode problem solutions that i solve are posted here regularly..
 | [0496-next-greater-element-i](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0682-baseball-game](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0682-baseball-game) |
 ## Design
 |  |
 | ------- |
@@ -192,4 +194,8 @@ all leetcode problem solutions that i solve are posted here regularly..
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0496-next-greater-element-i) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
