@@ -67,6 +67,7 @@ all leetcode problem solutions that i solve are posted here regularly..
 | [0141-linked-list-cycle](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +76,7 @@ all leetcode problem solutions that i solve are posted here regularly..
 | [0088-merge-sorted-array](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -95,6 +97,7 @@ all leetcode problem solutions that i solve are posted here regularly..
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -117,6 +120,7 @@ all leetcode problem solutions that i solve are posted here regularly..
 | [0145-binary-tree-postorder-traversal](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Design
 |  |
 | ------- |
