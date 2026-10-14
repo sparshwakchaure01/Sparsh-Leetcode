@@ -34,11 +34,13 @@ all leetcode problem solutions that i solve are posted here regularly..
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0098-validate-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -48,6 +50,7 @@ all leetcode problem solutions that i solve are posted here regularly..
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Linked List
@@ -103,6 +106,7 @@ all leetcode problem solutions that i solve are posted here regularly..
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Design
