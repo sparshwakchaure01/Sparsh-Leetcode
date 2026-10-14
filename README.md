@@ -102,6 +102,7 @@ all leetcode problem solutions that i solve are posted here regularly..
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Design
@@ -132,6 +133,7 @@ all leetcode problem solutions that i solve are posted here regularly..
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0020-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -144,4 +146,8 @@ all leetcode problem solutions that i solve are posted here regularly..
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sparshwakchaure01/Sparsh-Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
